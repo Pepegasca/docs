@@ -1,0 +1,6 @@
+Use Case 1
+	Descripcion del use case
+
+	Criterios del use case
+
+Needs
