@@ -4,3 +4,4 @@ Use Case 1
 	Criterios del use case
 
 Needs
+	Needs del use case
